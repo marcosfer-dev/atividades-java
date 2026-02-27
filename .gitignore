@@ -1,0 +1,16 @@
+# Compilados
+*.class
+
+# Pastas de build
+/bin/
+/out/
+/target/
+/build/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
