@@ -1,4 +1,4 @@
-package dev.marcosfer.atividades;
+package dev.marcosfer.atividades.atividade10;
 
 public class Atividade10 {
 	public static void main (String args[]) {

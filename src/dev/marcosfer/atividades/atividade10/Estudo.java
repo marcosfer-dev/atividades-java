@@ -1,4 +1,4 @@
-package dev.marcosfer.atividades;
+package dev.marcosfer.atividades.atividade10;
 
 public class Estudo {
 	int tempoDeDuracaoEstudo;
