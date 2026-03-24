@@ -12,5 +12,9 @@
 .classpath
 .settings/
 
+# IntelliJ IDEA
+.idea/
+*.iml
+
 # Logs
 *.log
