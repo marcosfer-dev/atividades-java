@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Atividade01 {
 	public static void main (String[] args) {
-		//// Crie um programa simulando um cadastro com nome de usuário, a idade e a senha que o usuário deseja cadastrar
+		// Crie um programa simulando um cadastro com nome de usuário, a idade e a senha que o usuário deseja cadastrar
 
 			Scanner teclado = new Scanner(System.in);
 			
