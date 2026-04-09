@@ -2,6 +2,8 @@ package dev.marcosfer.atividades.atividade18;
 
 public class Atividade18 {
     public static void main (String[] args) {
+        //POO Sobreposição
+
         Mamifero m = new Mamifero();
         Reptil r = new Reptil();
         Peixe p = new Peixe();
