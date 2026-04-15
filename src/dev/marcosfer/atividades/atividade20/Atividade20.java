@@ -11,7 +11,18 @@ public class Atividade20 {
         g[0] = new Gafanhoto("Jubileu", 22, "M", "juba");
         g[1] = new Gafanhoto("Creuza", 12, "F", "creuzita");
 
+
+        System.out.println("VÍDEOS\n------------------------------------------");
         System.out.println(v[0].toString());
+        System.out.println(v[1].toString());
+        System.out.println(v[2].toString());
+        System.out.println("\nGAFANHOTOS\n------------------------------------");
         System.out.println(g[0].toString());
+        System.out.println(g[1].toString());
+        System.out.println(" ");
+
+        Visualizacao vis = new Visualizacao(g[0],v[2]);
+        vis.avaliar(87.5f);
+        System.out.println(vis.toString());
     }
 }
